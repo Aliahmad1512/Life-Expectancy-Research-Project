@@ -3,8 +3,6 @@ The dataset comes from the Global Health Observatory (GHO) data repository under
 
 In this case study you’re provided average life expectancy of people of 193 Countries. You have to predict next year value using linear regression.
 
-Variable Description :-
-This data set contains the following features:
 'Country' : Name of the nation
 'Year': The year when the data is collected
 'Status': Developed or Developing status
