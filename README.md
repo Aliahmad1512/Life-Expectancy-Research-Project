@@ -3,27 +3,4 @@ The dataset comes from the Global Health Observatory (GHO) data repository under
 
 In this case study you’re provided average life expectancy of people of 193 Countries. You have to predict next year value using linear regression.
 
-Country --> Country
-Year --> Year
-Status --> Developed or Developing status
-Life expectancy --> Life Expectancy in age
-Adult Mortality --> Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
-infant deaths --> Number of Infant Deaths per 1000 population
-Alcohol --> Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
-percentage expenditure -- Expenditure on health as a percentage of Gross Domestic Product per capita(%)
-Hepatitis B --> Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
-Measles --> Measles - number of reported cases per 1000 population
-BMI --> Average Body Mass Index of entire population
-under-five deaths --> Number of under-five deaths per 1000 population
-Polio --> Polio (Pol3) immunization coverage among 1-year-olds (%)
-Total expenditure --> General government expenditure on health as a percentage of total government expenditure (%)
-Diphtheria --> Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
-HIV/AIDS --> Deaths per 1 000 live births HIV/AIDS (0-4 years)
-GDP --> Gross Domestic Product per capita (in USD)
-Population --> Population of the country
-thinness 1-19 years --> Prevalence of thinness among children and adolescents for Age 10 to 19 (% )
-thinness 5-9 years --> Prevalence of thinness among children for Age 5 to 9(%)
-Income composition of resources --> Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
-Schooling --> Number of years of Schooling(years)
-
 ![Downloader la -6140ff56ec3fb](https://user-images.githubusercontent.com/88396377/133325674-aef7ba02-7805-47c6-896c-947c8e555fa0.jpg)
