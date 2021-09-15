@@ -444,8 +444,18 @@ print(paste('### Median Accuracy of Linear Regression Model is: ', 100 - MedianA
 # Median Accuracy of Linear Regression Model :  97.06
 #######################################################
 
-#######################################################################################
-############################## LINEAR REGRESSION MODEL ################################
-#######################################################################################
+###################################################BUSINESS RECOMMENDATIONS#########################################
+
+#The Developed countries should help developing countries in eradicating the diseases which are affecting the life of the people by providing vaccinations
+#The government of developing countries should launch various schemes to motivate people to send their kids to schools
+#Government should organize free healthcare camps to provide free vaccinations for the needy and poor people so that they 
+#don't have to spend their money and they also stay healthy to treat their families well.
+#The government should increase the subsidy on liquor and increase healthcare and welfare camps to generate awareness among people, how bad drinking is and how it affects your body.
+#WHO with the help of developed nations should help the government of developing countries in providing free food, education and organize healthcare camps.
+
+
+###################################################################################################################
+############################################ LINEAR REGRESSION MODEL ##############################################
+###################################################################################################################
 
 
