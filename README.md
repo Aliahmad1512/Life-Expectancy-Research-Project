@@ -3,12 +3,4 @@ The dataset comes from the Global Health Observatory (GHO) data repository under
 
 In this case study you’re provided average life expectancy of people of 193 Countries. You have to predict next year value using linear regression.
 
-Equations For Linear Regression,
-General Form
-Y = α0x0 + α1x1 + α2x2 + α3x3 + α4x4 + ...
-
-For A Single Independent variable
-Y = α0x0 + α1x1
-
-
 ![Downloader la -6140ff56ec3fb](https://user-images.githubusercontent.com/88396377/133325674-aef7ba02-7805-47c6-896c-947c8e555fa0.jpg)
