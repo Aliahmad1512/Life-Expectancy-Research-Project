@@ -268,7 +268,7 @@ plot(life[,ContinuousCols],col='blue')
 # Large P-Value > 5% - Variables are not correlated 
 #### (Null hypothesis H0 is accepted) ##########
 
-colsforanova=c("Status") 
+colsforanova<-c("Status") 
 
 for(anovacols in colsforanova){
   anovaresult=summary(aov(Life_Expectancy ~ life[,c(anovacols)],data=life))
