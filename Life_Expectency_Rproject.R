@@ -238,14 +238,14 @@ for (ColumnName in ColsForBar){
 
 par(mfrow=c(2,2))
 
-ColsForBar =c("Status")
+ColsForBar <-c("Status")
 
 for(box_cols in ColsForBar){
   boxplot(Life_Expectancy~life[  ,c(box_cols)], data=life  , main=paste('Boxplot of :',box_cols),col=brewer.pal(8,"Accent"))
 }
 
 # Continuous Vs Continuous --- Scatter plot
-ContinuousCols=c("Year","Life_Expectancy","Adult_Mortality","Infant_Deaths",
+ContinuousCols<-c("Year","Life_Expectancy","Adult_Mortality","Infant_Deaths",
                  "Alcohol","Percentage_Expenditure","Hepatitis_B","Measles",
                  "BMI","Under_five_Deaths","Polio","Total_Expenditure","Diphtheria",
                  "HIV_AIDS","Per_Capita_GDP","Population","Thinness_1_19_Years",
